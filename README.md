@@ -2,6 +2,24 @@
 
 ## [Link to Video](https://youtu.be/_C8kWso4ne4?si=LYAhUdw8oa24vraE)
 
+## Jupyter Notebook
+
+View the [Jupyter Notebook](./PySpark%20Demo.ipynb) for the detailed code on implementing PySpark.
+
+## Usage
+
+1. After cloning the repository, run the following command to create a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+2. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## What is Apache Spark?
 
 - Fast and general-purpose cluster computing system
