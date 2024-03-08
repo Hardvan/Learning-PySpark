@@ -1,0 +1,70 @@
+Monthly Installment,Insurance Category,Diabetes,Smoker,User Category,Job,College,Risk Score
+800,Health,Yes,No,Individual,Engineer,Yes,Low
+950,Life,No,Yes,Family,Teacher,Yes,High
+1200,Auto,No,No,Individual,Doctor,Yes,Medium
+700,Health,Yes,Yes,Family,Marketing Manager,Yes,High
+850,Life,No,No,Family,Accountant,Yes,Low
+1100,Auto,Yes,No,Individual,Software Developer,No,Medium
+750,Health,No,Yes,Family,Nurse,Yes,High
+900,Life,No,No,Individual,Architect,Yes,Low
+1000,Auto,Yes,Yes,Family,Lawyer,Yes,High
+800,Health,No,No,Individual,Graphic Designer,No,Low
+950,Life,Yes,Yes,Family,Manager,Yes,High
+1200,Auto,No,Yes,Individual,Entrepreneur,Yes,Medium
+700,Health,Yes,No,Family,Pharmacist,Yes,High
+850,Life,Yes,Yes,Individual,Journalist,No,High
+1100,Auto,No,No,Family,Police Officer,Yes,Low
+750,Health,No,Yes,Individual,Real Estate Agent,Yes,High
+900,Life,Yes,Yes,Family,Professor,Yes,High
+1000,Auto,No,No,Individual,Chef,No,Low
+800,Health,Yes,No,Family,IT Consultant,Yes,Medium
+950,Life,No,Yes,Individual,Financial Analyst,Yes,High
+1200,Auto,Yes,Yes,Family,Artist,Yes,High
+700,Health,No,No,Individual,Registered Nurse,Yes,Low
+850,Life,Yes,No,Family,Sales Manager,Yes,Medium
+1100,Auto,No,Yes,Individual,Librarian,Yes,High
+750,Health,No,No,Family,Police Officer,No,Low
+925,Auto,Yes,Yes,Individual,Data Scientist,Yes,High
+1050,Health,Yes,Yes,Family,Writer,Yes,High
+1150,Auto,No,No,Individual,Flight Attendant,No,Low
+820,Life,No,Yes,Family,Electrician,Yes,High
+990,Auto,Yes,Yes,Individual,HR Manager,Yes,High
+870,Health,Yes,No,Family,Construction Worker,Yes,Low
+1030,Life,No,No,Individual,Web Developer,Yes,Low
+890,Auto,Yes,Yes,Family,Pharmacist,Yes,High
+770,Health,No,Yes,Individual,Graphic Designer,No,High
+940,Life,Yes,Yes,Family,Manager,Yes,High
+1180,Auto,No,No,Individual,Entrepreneur,Yes,Medium
+690,Health,Yes,No,Family,Pharmacist,Yes,Low
+860,Life,Yes,Yes,Individual,Journalist,No,High
+1070,Auto,No,No,Family,Police Officer,Yes,Low
+720,Health,No,Yes,Individual,Real Estate Agent,Yes,High
+910,Life,Yes,Yes,Family,Professor,Yes,High
+990,Auto,No,No,Individual,Chef,No,Low
+810,Health,Yes,No,Family,IT Consultant,Yes,Medium
+975,Life,No,Yes,Individual,Financial Analyst,Yes,High
+1210,Auto,Yes,Yes,Family,Artist,Yes,High
+710,Health,No,No,Individual,Registered Nurse,Yes,Low
+880,Life,Yes,No,Family,Sales Manager,Yes,Medium
+1120,Auto,No,Yes,Individual,Librarian,Yes,High
+780,Health,No,No,Family,Police Officer,No,Low
+940,Life,Yes,Yes,Individual,Data Scientist,Yes,High
+1080,Health,Yes,Yes,Family,Writer,Yes,High
+1170,Auto,No,No,Individual,Flight Attendant,No,Low
+830,Life,No,Yes,Family,Electrician,Yes,High
+1000,Auto,Yes,Yes,Individual,HR Manager,Yes,High
+900,Health,Yes,No,Family,Construction Worker,Yes,Low
+1050,Life,No,No,Individual,Web Developer,Yes,Low
+920,Auto,Yes,Yes,Family,Pharmacist,Yes,High
+760,Health,No,Yes,Individual,Graphic Designer,No,High
+930,Life,Yes,Yes,Family,Manager,Yes,High
+1160,Auto,No,No,Individual,Entrepreneur,Yes,Medium
+680,Health,Yes,No,Family,Pharmacist,Yes,Low
+850,Life,Yes,Yes,Individual,Journalist,No,High
+1090,Auto,No,No,Family,Police Officer,Yes,Low
+730,Health,No,Yes,Individual,Real Estate Agent,Yes,High
+910,Life,Yes,Yes,Family,Professor,Yes,High
+980,Auto,No,No,Individual,Chef,No,Low
+800,Health,Yes,No,Family,IT Consultant,Yes,Medium
+960,Life,No,Yes,Individual,Financial Analyst,Yes,High
+1220,Auto,Yes,Yes,Family,Artist,Yes,High
