@@ -6,19 +6,27 @@
 
 View the [Jupyter Notebook](./PySpark%20Demo.ipynb) for the detailed code on implementing PySpark.
 
+## Insurance Notebooks
+
+| Notebook                                                                                              | Description                                                                    |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Insurance Price Prediction](./Insurance%20Notebooks/1_Health%20Insurance%20Price%20Prediction.ipynb) | Predicting the price of health insurance using Linear Regression               |
+| [Insurance Risk Score Prediction](./Insurance%20Notebooks/2_Insurance%20Risk%20Score.ipynb)           | Predicting the risk score (Low, Medium, High) of insurance using Random Forest |
+| [Insurance Fraud Detection](./Insurance%20Notebooks/3_Insurance%20Fraud%20Detection.ipynb)            | Detecting fraud in insurance using Random Forest                               |
+
 ## Usage
 
 1. After cloning the repository, run the following command to create a virtual environment:
 
-```bash
-python -m venv .venv
-```
+   ```bash
+   python -m venv .venv
+   ```
 
 2. Install the required packages:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## What is Apache Spark?
 
