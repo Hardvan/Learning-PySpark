@@ -8,11 +8,11 @@ View the [Jupyter Notebook](./PySpark%20Demo.ipynb) for the detailed code on imp
 
 ## Insurance Notebooks
 
-| Notebook                                                                                              | Description                                                                    |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [Insurance Price Prediction](./Insurance%20Notebooks/1_Health%20Insurance%20Price%20Prediction.ipynb) | Predicting the price of health insurance using Linear Regression               |
-| [Insurance Risk Score Prediction](./Insurance%20Notebooks/2_Insurance%20Risk%20Score.ipynb)           | Predicting the risk score (Low, Medium, High) of insurance using Random Forest |
-| [Insurance Fraud Detection](./Insurance%20Notebooks/3_Insurance%20Fraud%20Detection.ipynb)            | Detecting fraud in insurance using Random Forest                               |
+| #   | Notebook                                                                                              | Description                                                                    |
+| --- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 1.  | [Insurance Price Prediction](./Insurance%20Notebooks/1_Health%20Insurance%20Price%20Prediction.ipynb) | Predicting the price of health insurance using Linear Regression               |
+| 2.  | [Insurance Risk Score Prediction](./Insurance%20Notebooks/2_Insurance%20Risk%20Score.ipynb)           | Predicting the risk score (Low, Medium, High) of insurance using Random Forest |
+| 3.  | [Insurance Fraud Detection](./Insurance%20Notebooks/3_Insurance%20Fraud%20Detection.ipynb)            | Detecting fraud in insurance using Random Forest                               |
 
 ## Usage
 
